@@ -1,0 +1,5 @@
+# Exclude all files and folders
+#*
+
+# Include only excel_update_date_script.bas
+#!excel_update_date_script.bas
